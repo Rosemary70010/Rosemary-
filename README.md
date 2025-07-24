@@ -1,6 +1,7 @@
 
 
 
+
 score = int(input("Enter the student's score: "))
 
 if score >= 70 and score <= 100:
